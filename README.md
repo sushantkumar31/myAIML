@@ -14,7 +14,7 @@ This repository contains a two-part introduction to machine learning and data sc
   - NumPy arrays, broadcasting, and vectorized ML operations
   - Pandas data cleaning, filtering, grouping, and feature engineering
   - Data visualization with Matplotlib and Seaborn
-  - Practical examples for exploratory analysis and preprocessing
+  - Exploratory data analysis workflow and preprocessing examples
 
 ## Requirements
 
