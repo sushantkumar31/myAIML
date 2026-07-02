@@ -63,4 +63,3 @@ jupyter notebook
   - `student_report.png`
 
 - The notebooks are intended for learning core ML concepts and applying them directly with NumPy, Pandas, Matplotlib, and Seaborn.
-- 
