@@ -63,3 +63,12 @@ jupyter notebook
   - `student_report.png`
 
 - The notebooks are intended for learning core ML concepts and applying them directly with NumPy, Pandas, Matplotlib, and Seaborn.
+
+## Recent Additions
+
+- `phase3.ipynb` — Linear & Logistic Regression (new)
+  - Part A: Linear Regression — from-scratch gradient descent, scikit-learn LinearRegression, Ridge vs Lasso, residuals and training-loss plots.
+  - Part B: Logistic Regression — Titanic survival example with from-scratch implementation and scikit-learn LogisticRegression, data preprocessing, model evaluation, and coefficient plots.
+  - Also includes exercises using the `tips` dataset for linear regression and hands-on classification with `titanic`.
+
+- Minor notebooks updates: small fixes and added examples across `phase1.ipynb` and `phase2.ipynb`.
